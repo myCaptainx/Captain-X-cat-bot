@@ -1,1 +1,1 @@
-worker: bash cat ub
+worker: bash catub
